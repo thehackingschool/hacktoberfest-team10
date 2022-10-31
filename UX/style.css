@@ -1,0 +1,131 @@
+body{
+    /* background-color:rgb(246, 235, 220);*/
+} 
+
+.second-bottom{
+    margin-top: 4%;
+    margin-right: 4%;
+}
+
+
+
+.heading{
+    font-size: 120px;
+    text-align: left;
+    margin-left: 2%;
+    
+}
+
+h5{
+    text-align: left;
+    margin-left: 0.4%;
+}
+
+h2{
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+}
+p{
+    text-align: left;
+}
+
+.title{
+    margin-left: 22px;
+    text-align:start;
+}
+
+.navbar-custom{
+    background-color: #fccc43;
+}
+
+.navbar-nav{
+    margin-left: 60%;
+    font-size: 18px;
+    
+}
+
+.navbar-collapse{
+    background-color: rgba(250, 234, 11, 0);
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.image{
+    border-image-width: auto;
+}
+
+.firstpara{
+    text-align: left;
+}
+
+.fourL{
+    margin-left: 22px ;
+}
+
+/* #leftbox {
+    float:left; 
+    background-color: #fccc43;
+    width:25%;
+    height:280px;
+}
+#middlebox{
+    float:left; 
+    background:#fccc43;
+    width:50%;
+    height:280px;
+}
+#rightbox{
+    float:right;
+    background:#fccc43;
+    width:25%;
+    height:280px;
+}
+
+.boxes{
+    margin-left: 22px;
+} */
+
+
+.card{
+    margin-left: 70px;
+    background-color: #fccc43;
+    
+}
+
+.form-select{
+    margin-right: 190px;
+    margin-left: 65px;
+    
+    padding-right: 2%;
+}
+
+.bottomcard{
+    background-color: #fff;
+}
+
+.inputsa{
+    margin-bottom: 3%;
+    border-radius: 25px;
+    
+}
+
+.card-body{
+    background-color: #fccc43;
+}
+
+.footer{
+    background-color: #fccc43;
+    margin-right: 50px;
+}
+
+.dawood{
+    margin-bottom: 0%;
+}
+
+.lastline{
+    margin-left: 75px;
+}
